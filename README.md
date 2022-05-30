@@ -1,1 +1,1 @@
-Full anf final project, WOW_CARS
+Full and final project, WOW_CARS
